@@ -4,13 +4,11 @@
 
 Table of contents
 ========
-- [S&P500 Declines](#sp500-declines)
-- [Table of contents](#table-of-contents)
-  - [### 1. Executive Summary](#-1-executive-summary)
-  - [### 2. Exploratory analysis](#-2-exploratory-analysis)
-      - [**2.1 Yearly returns**](#21-yearly-returns)
-  - [#### **2.2 Mapping declines**](#-22-mapping-declines)
-  - [### 3. Conclusion](#-3-conclusion)
+- [1. Executive Summary](#1-executive-summary)
+- [2. Exploratory analysis](#2-exploratory-analysis)
+    - [2.1 Yearly returns](#21-yearly-returns)
+    - [2.2 Mapping declines](#22-mapping-declines)
+- [3. Conclusion](#3-conclusion)
 
 ### 1. Executive Summary
 ---
